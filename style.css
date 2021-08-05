@@ -1,0 +1,55 @@
+
+.cim {
+    color: cadetblue;
+    text-align: center;
+    
+    }
+
+.k {
+        border: solid #7A9899 2px;
+        width: 760px;
+        margin: auto;
+        background-color: lightgrey;
+        border-radius: 2px;
+        justify-content:space-around;
+        flex-wrap: wrap;
+        align-content: center;
+        
+}
+
+.szo {
+    background-color:#7A9899;
+    padding: 3px;
+    justify-content: space-around;
+    align-content: center;
+    }
+
+.keret {
+    background-color: #7A9899;
+    width: 110px;
+    padding: 2px;
+    height: 90px;
+    object-fit: cover;
+}
+
+.kozepso {
+    border: #7AC899 2px solid;
+    margin-top: auto;
+    
+}
+.kepek {
+    max-width: 100px;
+    max-height: 100px;
+    margin: auto;
+    padding: 2px;
+    justify-content: space-between;
+    border-style: 3px solid lightgrey;
+    
+}
+ 
+.containeren-beluli-kozepre-igaiztas
+{
+    width: fit-content;
+    max-width: 80%;
+    margin: auto; 
+}
