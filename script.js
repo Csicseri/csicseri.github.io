@@ -10,9 +10,9 @@ var robotkepek = [
 var kepIndex = 0;
 var fo_kep = document.getElementById("fo-kep");
 
-function indexBeallítasa(index) {
+function indexBeallitasa(index) {
     kepIndex = index;
-    kepBeallítasa();
+    kepBeallitasa();
 }
 
 function kovetkezo() {
@@ -22,7 +22,7 @@ function kovetkezo() {
         kepIndex = 0;
     }
 
-kepBeallítasa();
+kepBeallitasa();
 }
 
 function elozo() {
@@ -32,9 +32,9 @@ function elozo() {
         kepIndex = 6;
     }
 
-kepBeallítasa(fo-kep);
+kepBeallitasa(fo-kep);
 
 }
-function kepBeallítasa() {
+function kepBeallitasa() {
     fo_kep.setAttribute("src", robotkepek[kepIndex]);
 }
