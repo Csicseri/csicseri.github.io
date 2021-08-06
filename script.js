@@ -5,7 +5,7 @@ var robotkepek = [
     "sophia.jpg",
     "robotallatok.jpg",
     "robot.jpg",
-    "tancol.jpg",
+    "tancol.png",
 ];
 var kepIndex = 0;
 var fo_kep = document.getElementById("fo-kep");
