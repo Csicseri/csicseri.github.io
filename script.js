@@ -1,9 +1,9 @@
 var robotkepek = [
-    "robotok/humanoid-robot.jpg",
-    "robotok/Honda.jpg",
-    "robotok/cimon.jpg",
-    "robotok/sophia.jpg",
-    "robotok/robotallatok.jpg",
+    "humanoid-robot.jpg",
+    "honda.jpg",
+    "cimon.jpg",
+    "sophia.jpg",
+    "robotallatok.jpg",
     "robotok/enarobot.jpg",
     "robotok/tancolorobotok.png"
 ];
