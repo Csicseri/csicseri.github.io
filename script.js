@@ -4,8 +4,8 @@ var robotkepek = [
     "cimon.jpg",
     "sophia.jpg",
     "robotallatok.jpg",
-    "robotok/enarobot.jpg",
-    "robotok/tancolorobotok.png"
+    "robot.jpg",
+    "tancol.jpg"
 ];
 var kepIndex = 0;
 var fo_kep = document.getElementById("fo-kep");
@@ -32,7 +32,7 @@ function elozo() {
         kepIndex = 6;
     }
 
-kepBeallitasa(fo-kep);
+kepBeallitasa();
 
 }
 function kepBeallitasa() {
